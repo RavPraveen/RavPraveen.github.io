@@ -142,7 +142,7 @@ function App() {
             <p className="contact-label">Get in Touch</p>
             <ul className="contact-list">
               <li><strong>GitHub:</strong> <a href="https://github.com/RavPraveen" target="_blank" rel="noreferrer">github.com/RavPraveen</a></li>
-              <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/praveen-samarasekara-879913368?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noreferrer">linkedin.com/in/praveen-samarasekara-879913368</a></li>
+              <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/praveen-samarasekara-879913368?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noreferrer">linkedin.com/praveen-samarasekara</a></li>
               <li><strong>CV:</strong> <a href={`${import.meta.env.BASE_URL}docs/CV_updated.pdf`} target="_blank" rel="noreferrer">View CV</a></li>
               <li><strong>Email:</strong> ravinpraveen416@gmail.com</li>
               <li><strong>Phone:</strong> +94 77 125 6731</li>
