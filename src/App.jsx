@@ -125,9 +125,9 @@ function App() {
           <div className="contact-card contact-details-card">
             <p className="contact-label">Get in Touch</p>
             <ul className="contact-list">
-              <li><strong>GitHub:</strong> github.com/your-username</li>
-              <li><strong>LinkedIn:</strong> linkedin.com/in/your-profile</li>
-              <li><strong>CV:</strong> link to your CV</li>
+              <li><strong>GitHub:</strong> <a href="https://github.com/RavPraveen" target="_blank" rel="noreferrer">github.com/RavPraveen</a></li>
+              <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/praveen-samarasekara-879913368?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noreferrer">linkedin.com/in/praveen-samarasekara-879913368</a></li>
+              <li><strong>CV:</strong> <a href="/docs/CV.pdf" target="_blank" rel="noreferrer">View CV</a></li>
               <li><strong>Email:</strong> your.email@example.com</li>
               <li><strong>Phone:</strong> +94 77 123 4567</li>
             </ul>
