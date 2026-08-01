@@ -78,9 +78,11 @@ function App() {
         <div className="skills-card">
           <p className="skills-label">Skills Board</p>
           <p className="skills-description">
-            Add your skills here: machine vision, image processing, AI/ML, embedded systems,
-            Python, C/C++, MATLAB, embedded Linux, and other areas you want to highlight.
-          </p>
+  Skilled in machine learning, data analysis, embedded systems.
+  Experienced with Python, C/C++, Embedded C, MATLAB, Java, React, Django, and Node.js.
+  Proficient in microcontrollers, signal processing, computer vision, 
+  database systems, and developing intelligent hardware-software solutions.
+</p>
         </div>
       </section>
 
@@ -97,7 +99,7 @@ function App() {
           </div>
           <div className="journey-card journey-highlight">
             <p className="journey-label">University of Moratuwa</p>
-            <p className="journey-value">4 Semesters Completed • CGPA 3.67</p>
+            <p className="journey-value">4 Semesters Completed • CGPA 3.59</p>
           </div>
         </div>
       </section>
@@ -128,7 +130,7 @@ function App() {
               <li><strong>GitHub:</strong> <a href="https://github.com/RavPraveen" target="_blank" rel="noreferrer">github.com/RavPraveen</a></li>
               <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/praveen-samarasekara-879913368?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noreferrer">linkedin.com/in/praveen-samarasekara-879913368</a></li>
               <li><strong>CV:</strong> <a href="/docs/CV.pdf" target="_blank" rel="noreferrer">View CV</a></li>
-              <li><strong>Email:</strong> ravinpraveen416@gmial.com</li>
+              <li><strong>Email:</strong> ravinpraveen416@gmail.com</li>
               <li><strong>Phone:</strong> +94 77 125 6731</li>
             </ul>
           </div>
