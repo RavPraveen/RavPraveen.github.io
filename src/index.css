@@ -253,7 +253,7 @@ body {
 .contact-grid {
   display: grid;
   gap: 1.25rem;
-  grid-template-columns: 1fr 1.1fr;
+  grid-template-columns: 1fr 1fr;
 }
 
 .contact-card {
@@ -301,6 +301,36 @@ body {
 
 .contact-list a:hover {
   text-decoration: underline;
+}
+
+.contact-email-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.contact-email-text {
+  margin: 0;
+  color: #cbd5e1;
+  line-height: 1.7;
+}
+
+.email-button {
+  display: inline-block;
+  width: fit-content;
+  padding: 0.8rem 1.1rem;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #60a5fa, #3b82f6);
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.email-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(59, 130, 246, 0.25);
 }
 
 .contact-list strong {

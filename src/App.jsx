@@ -124,6 +124,20 @@ function App() {
 
       <section className="contact-section">
         <div className="contact-grid">
+
+          <div className="contact-card contact-email-card">
+  <h3>Let's Build Something Together</h3>
+
+  <p>
+    Looking for a motivated engineer who combines creativity with technical depth?
+  </p>
+  <p>
+    I bring hands-on experience in <strong>machine learning, embedded systems, 
+    IoT, and full-stack development</strong>, with a passion for solving 
+    real-world problems through technology.
+  </p>
+  
+</div>
           <div className="contact-card contact-details-card">
             <p className="contact-label">Get in Touch</p>
             <ul className="contact-list">
@@ -134,6 +148,8 @@ function App() {
               <li><strong>Phone:</strong> +94 77 125 6731</li>
             </ul>
           </div>
+
+          
         </div>
       </section>
     </main>
